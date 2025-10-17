@@ -1,0 +1,23 @@
+Project Title: AI-Powered Loan Eligibility Advisor
+
+Project Statement:
+Loan approval decisions are often slow, inconsistent, and opaque—particularly in high-volume financial institutions. This project aims to build an AI-powered web application that automates loan eligibility analysis using machine learning. The system predicts approval likelihood based on user-provided financial information and generates transparent, PDF-based decision summaries. By integrating a financial guidance chatbot, the platform also assists users in understanding credit factors, improving transparency and access. Built with Streamlit, Python, and NLP tools, this solution empowers both applicants and lenders with real-time, explainable insights.
+
+Expected Outcomes:
+• Loan Approval Prediction Engine
+ Users receive instant approval probability based on features like credit score, income, and loan history using trained machine learning models.
+• Personalized Financial Chatbot
+ A built-in NLP chatbot offers tailored guidance, explaining key concepts like EMI, credit score impact, and approval reasons using transformer models.
+• Explainable AI Outputs
+ Model decisions are visualized with tools like SHAP to help users understand how each input affected their result.
+• Professional PDF Report Generation
+ Each application generates a downloadable credit evaluation report summarizing the input data, predicted result, and interpretation visuals.
+• Real-time Loan Evaluation Workflow
+ The end-to-end system processes user input, performs inference, and provides feedback instantly through an interactive and responsive web interface.
+
+Modules to be Implemented:
+1.     Data Ingestion and Preprocessing
+2.     Machine Learning Model Training & Inference
+3.     Explainability and Report Generation
+4.     Chatbot Integration & App Deployment
+
